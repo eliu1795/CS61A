@@ -6,7 +6,7 @@ course's link:
 https://inst.eecs.berkeley.edu/~cs61a/su20/
 
 
-Hog Project:
+### Hog Project:
 The purpose of the project is to learn to develop a simulator and multiple strategies for the dice game Hog. Students are required to use control statements and higher-order functions to complete this project.
 
 Project's instruction: https://inst.eecs.berkeley.edu/~cs61a/su20/proj/hog/
